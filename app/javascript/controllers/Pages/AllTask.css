@@ -1,0 +1,30 @@
+.create-campaign-button {
+    display: flex !important;
+    align-items: center !important;
+    font-family: Inter !important;
+    font-size: 15px !important;
+    font-weight: 500 !important;
+    padding: 13px 24px 13px 24px !important;
+    border-radius: 10px !important;
+    background: #FF9559 !important;
+    height: 50px !important;
+}
+
+.campaign-list-filters{
+    display: flex !important;
+    justify-content: space-between !important;
+    margin: 20px 0 20px 0 !important;
+    align-content: center !important;
+}
+
+.campaign-table th,
+td {
+    border: 1px solid rgba(224, 224, 224, 1);
+}
+
+.campaign-list-text {
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: 500;
+}
+

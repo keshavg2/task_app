@@ -1,0 +1,25 @@
+.create-campaign-button {
+    display: flex !important;
+    align-items: center !important;
+    font-family: Inter !important;
+    font-size: 15px !important;
+    font-weight: 500 !important;
+    padding: 13px 24px 13px 24px !important;
+    border-radius: 10px !important;
+    background: #FF9559 !important;
+    height: 50px !important;
+}
+
+.call-log-filters-container{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px !important;
+    align-items: baseline !important;
+}
+
+.call-log-filters{
+    display: flex;
+    flex: 1;
+    gap: 16px;
+    align-items: baseline !important;
+}
